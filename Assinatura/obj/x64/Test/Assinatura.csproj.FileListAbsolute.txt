@@ -1,0 +1,13 @@
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\x64\Test\Assinatura.exe.config
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\x64\Test\Assinatura.exe
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\x64\Test\Aspose.Cells.dll
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\x64\Test\Aspose.HTML.dll
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\x64\Test\System.Drawing.Common.dll
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\x64\Test\Aspose.Cells.xml
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\x64\Test\Aspose.HTML.xml
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\x64\Test\System.Drawing.Common.xml
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\obj\x64\Test\Assinatura.csproj.AssemblyReference.cache
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\obj\x64\Test\Assinatura.csproj.ResolveComReference.cache
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\obj\x64\Test\Assinatura.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\obj\x64\Test\Assinatura.csproj.CopyComplete
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\obj\x64\Test\Assinatura.exe

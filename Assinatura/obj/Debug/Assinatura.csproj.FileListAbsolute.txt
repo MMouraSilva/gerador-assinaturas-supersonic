@@ -1,0 +1,31 @@
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\bin\Debug\Assinatura.exe.config
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\bin\Debug\Assinatura.exe
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\bin\Debug\Assinatura.pdb
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\bin\Debug\Aspose.HTML.dll
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\bin\Debug\Aspose.HTML.xml
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\obj\Debug\Assinatura.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\obj\Debug\Assinatura.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\obj\Debug\Assinatura.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\obj\Debug\Assinatura.csproj.CopyComplete
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\obj\Debug\Assinatura.exe
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\obj\Debug\Assinatura.pdb
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\bin\Debug\System.Drawing.Common.dll
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\bin\Debug\System.Drawing.Common.xml
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\obj\Debug\Assinatura.csproj.ResolveComReference.cache
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\bin\Debug\Aspose.Cells.dll
+C:\Users\matheus.silva\source\repos\Assinatura\Assinatura\bin\Debug\Aspose.Cells.xml
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\Debug\Assinatura.exe.config
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\Debug\Assinatura.exe
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\Debug\Assinatura.pdb
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\Debug\Aspose.Cells.dll
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\Debug\Aspose.HTML.dll
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\Debug\System.Drawing.Common.dll
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\Debug\Aspose.Cells.xml
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\Debug\Aspose.HTML.xml
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\bin\Debug\System.Drawing.Common.xml
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\obj\Debug\Assinatura.csproj.AssemblyReference.cache
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\obj\Debug\Assinatura.csproj.ResolveComReference.cache
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\obj\Debug\Assinatura.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\obj\Debug\Assinatura.csproj.CopyComplete
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\obj\Debug\Assinatura.exe
+C:\Users\Matheus Moura\source\repos\Assinatura\Assinatura\obj\Debug\Assinatura.pdb
